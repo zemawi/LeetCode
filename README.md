@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions (via LeetHub)
+# LeetCode Solutions (via LeetHub)
 
 This repository contains my solutions to various LeetCode problems, automatically synced using the [LeetHub Chrome Extension](https://github.com/QasimWani/LeetHub).
 
